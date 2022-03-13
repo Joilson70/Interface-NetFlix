@@ -6,3 +6,7 @@ Tecnologias:
 🛡 JS
 
 Durante o processo de aprendizagem, aprendi sobre POO em especial, herança!
+Modificações:
+
+Incluí links nos botões do menu, direcionando-os para as páginas correspondetes;
+Inclui links nos botões "Assista Agora" e "Mais informações"
